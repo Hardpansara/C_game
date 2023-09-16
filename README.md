@@ -1,6 +1,6 @@
 # Game in C Language with data structure and algorithm
 
-**Library Needed : **
+Library Needed : 
 
 - #include <stdio.h>
 - #include <stdlib.h>
@@ -9,7 +9,7 @@
 
   <hr>
 
-  **DSA Used :**
+  DSA Used :
 
 - Stacks
 
