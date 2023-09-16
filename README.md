@@ -6,3 +6,13 @@
 - #include <stdlib.h>
 - #include <conio.h>
 - #include <string.h>
+
+  <hr>
+
+  **DSA Used :**
+
+- Stacks
+
+  <hr>
+
+  
