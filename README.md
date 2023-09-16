@@ -1,6 +1,7 @@
 # Game in C Language with data structure and algorithm
 
 Discription
+
 It seems like you've shared a portion of C code for a game where the player is tasked with sorting elements in different "Glasses" using certain rules. This code is written in C and uses functions to manage the game's logic and display. Here's an overview of the code's functionality:
 
 1. `instruction()`: Displays the game's instructions and options for playing or exiting.
@@ -21,6 +22,8 @@ It seems like you've shared a portion of C code for a game where the player is t
 
 Overall, this code represents the core logic of a game involving sorting elements in different containers (Glasses) using specific rules. The player's goal is to sort the elements efficiently with the fewest possible moves.
 
+<hr>
+
 Library Needed : 
 
 - #include <stdio.h>
@@ -28,24 +31,14 @@ Library Needed :
 - #include <conio.h>
 - #include <string.h>
 
-  <hr>
+<hr>
 
   DSA Used :
 
 - Stacks
+- Arrays
 
-  <hr>
-
-Function Created
-
--int main()
--void instruction()
--void loser()
--void rules() 
--int status()
--void display()
--void game()
-
+ <hr>
 
 
 
