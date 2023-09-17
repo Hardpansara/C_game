@@ -27,7 +27,7 @@ void instruction() // Home Page ... This will be the first function to be called
     printf("|                                                                                        |\n");
     printf("|%sPress 1: play game.%s%s                                                                     |\n", "\033[0;32m", "\033[0m", "\033[0;33m");
     printf("|%spress 2: Exit%s%s                                                                           |\n", "\033[0;32m", "\033[0m", "\033[0;33m");
-    printf("|                                                              Developed By Hard Pansara |");
+    printf("|                                                              Developed By Hard Pansara |\n");
     printf("|----------------------------------------------------------------------------------------|");
     printf("\033[0m");
 }
