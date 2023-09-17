@@ -3,7 +3,7 @@
 ## About the Game
 Sort The Glass is a captivating number sorting game that will test your logical thinking and strategic skills. The objective of the game is to arrange the numbers in the glasses correctly. You can transfer the top element from one glass to another, but there are rules to follow! Make sure the tops of both glasses are the same before you can transfer.
 
-This game was created by [Your Name] as a fun and challenging way to exercise your brain and have a great time.
+This game was created by Hard Pansara as a fun and challenging way to exercise your brain and have a great time.
 
 ## How to Play
 1. Run the game.
